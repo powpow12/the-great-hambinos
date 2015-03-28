@@ -31,7 +31,24 @@ html body {
 	padding-left: 15px;
 	padding-top: 15px;
 }
-
+.player_info{
+	float:left;
+	margin-left:10px;
+	margin-top:-3px;
+}
+.player_name{
+	font-size:24px;
+	color:#1A1021;
+	padding-bottom:0;
+}
+.player_detail{
+	font-size:16px;
+	color:#877B55;
+	margin-top:-5px;
+}
+.bb-4x{
+	float:left;
+}
 .main-bar-yello{
 	height: 30px;
 	background-color:  #EDC218;
