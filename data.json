@@ -1,0 +1,58 @@
+[
+	{
+		"label":"David Ortiz",
+		"dataHR":[0, 12, 26, 35],
+		"dataSB":[0, 0, 0, 0],
+		"dataBA":[".200", ".263", ".249", ".263"],
+		"projHR":[23],
+		"projSB":[1],
+		"projBA":[".277"]
+
+	},
+	{
+		"label":"Mike Napoli",
+		"dataHR":[0, 7, 17, 17],
+		"dataSB":[0, 1, 2, 3],
+		"dataBA":[".500", ".263", ".251",".248"],
+		"projHR":[19],
+		"projSB":[3],
+		"projBA":[".243"]
+	},
+	{
+		"label":"Jacoby Ellsbury",
+		"dataHR":[0, 2, 9, 16],
+		"dataSB":[0, 16, 29, 39],
+		"dataBA":[".000", ".273", ".277", ".271"],
+		"projHR":[15],
+		"projSB":[30],
+		"projBA":[".272"]
+	},
+	{
+		"label":"Brett Gardner",
+		"dataHR":[0, 3, 15, 17],
+		"dataSB":[0, 13, 18, 21],
+		"dataBA":[".000",".277", ".283",".256"],
+		"projHR":[11],
+		"projSB":[19],
+		"projBA":[".255"]
+	},
+	{
+		"label":"Miguel Cabrera",
+		"dataHR":[0, 11, 17, 25],
+		"dataSB":[0, 0, 1, 1],
+		"dataBA":[".333",".319", ".311", ".313"],
+		"projHR":[29],
+		"projSB":[2],
+		"projBA":[".315"]
+	},
+	{
+		"label":"Ian Kinsler",
+		"dataHR":[0, 5, 11, 17],
+		"dataSB":[0, 6, 10, 15],
+		"dataBA":[".000", ".301", ".288", ".275"],
+		"projHR":[16],
+		"projSB":[13],
+		"projBA":[".265"]
+	}
+
+]
