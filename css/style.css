@@ -1,0 +1,55 @@
+html body {
+	font-family: 'Good Headline Pro', 'Oswald', sans-serif;
+}
+
+
+
+.container-fluid{
+	margin-top: 51px;
+	background-color: #E8D392;
+	height: 100%;
+}
+
+.main-row{
+	/*
+	height: 100%;
+	*/
+}
+
+.main-bar-yello{
+	height: 30px;
+	background-color:  #EDC218;
+}
+.main-bar-red{
+	height: 30px;
+	background-color: #E30E1F;
+}
+
+.navbar{
+	background-color:#097487;
+	border-color: #097487;
+}
+
+.navbar-fixed-top {
+	background-color: #097487;
+	border-color: #097487;
+}
+.navbar-brand{
+	background-color:#097487;
+	color: #E8D392;
+}
+
+.save-button{
+	background-color: #E30E1F;
+	float: right;
+	width: 100px;
+	height: 30px;
+}
+
+.dropdown-menu{
+	background-color: #E30E1F ;
+}
+
+a {
+	color: #E8D392;
+}
