@@ -17,10 +17,19 @@ html body {
 }
 
 .player-row{
-	border-bottom: 0.5px;
+	border-bottom: 1px;
 	border-bottom-style: solid;
 	border-bottom-color: #877B55;
+	min-height: 80px;
 
+}
+.player-col{
+	border-right: 1px;
+	border-right-style: solid;
+	border-right-color: #877B55;
+	min-height: 85px;
+	padding-left: 15px;
+	padding-top: 15px;
 }
 
 .main-bar-yello{
@@ -70,4 +79,9 @@ i{
 
 	border-bottom: 2px;
 	border-bottom-color: #877B55;
+}
+
+canvas{
+	height: 80px;
+	width: 100%;
 }
