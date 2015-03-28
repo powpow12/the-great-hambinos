@@ -39,15 +39,7 @@
 	]
 }
 
-	// }
-	// Chart.defaults.global.responsive = true;
-	window.onload = function(){
-		var ctx = document.getElementById("chart1").getContext("2d");
-		window.myLine = new Chart(ctx).Line(lineChartData, {
-		responsive: true
-		});
-	
-	}
+
 
 	var randomScalingFactor = function(){ return Math.round(Math.random()*100)};
 	var lineChartData2 = {
@@ -62,7 +54,7 @@
 		pointHighlightFill : "#fff",
 		pointHighlightStroke : "rgba(9,116,135,1)",
 		// data : [randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor()]
-		data : [0, 12, 26, 35]
+		data : [0, 12, 18,20]
 	},
 	{
 		label: "Year to date",
@@ -299,20 +291,17 @@
 		responsive: true
 		});
 		var ctx4 = document.getElementById("chart4").getContext("2d");
-		window.myLine = new Chart(ctx4).Line(lineChartData3, {
+		window.myLine = new Chart(ctx4).Line(lineChartData4, {
 		responsive: true
 		});
-		var ctx4 = document.getElementById("chart4").getContext("2d");
-		window.myLine = new Chart(ctx4).Line(lineChartData3, {
+		var ctx5 = document.getElementById("chart4").getContext("2d");
+		window.myLine = new Chart(ctx5).Line(lineChartData5, {
 		responsive: true
 		});
-		var ctx5 = document.getElementById("chart5").getContext("2d");
-		window.myLine = new Chart(ctx5).Line(lineChartData3, {
+		var ctx6 = document.getElementById("chart5").getContext("2d");
+		window.myLine = new Chart(ctx6).Line(lineChartData6, {
 		responsive: true
 		});
-		var ctx6 = document.getElementById("chart6").getContext("2d");
-		window.myLine = new Chart(ctx6).Line(lineChartData3, {
-		responsive: true
-		});
+
 	
 	}
