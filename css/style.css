@@ -16,6 +16,13 @@ html body {
 	*/
 }
 
+.player-row{
+	border-bottom: 0.5px;
+	border-bottom-style: solid;
+	border-bottom-color: #877B55;
+
+}
+
 .main-bar-yello{
 	height: 30px;
 	background-color:  #EDC218;
@@ -44,6 +51,7 @@ html body {
 	float: right;
 	width: 100px;
 	height: 30px;
+	padding-left: 10px;
 }
 
 .dropdown-menu{
@@ -52,4 +60,14 @@ html body {
 
 a {
 	color: #E8D392;
+}
+
+i{
+	color: #877B55;
+}
+
+.player-div{
+
+	border-bottom: 2px;
+	border-bottom-color: #877B55;
 }
