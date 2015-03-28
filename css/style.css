@@ -20,14 +20,14 @@ html body {
 	border-bottom: 1px;
 	border-bottom-style: solid;
 	border-bottom-color: #877B55;
-	min-height: 80px;
+	min-height: 120px;
 
 }
 .player-col{
 	border-right: 1px;
 	border-right-style: solid;
 	border-right-color: #877B55;
-	min-height: 85px;
+	min-height: 120px;
 	padding-left: 15px;
 	padding-top: 15px;
 }
@@ -75,7 +75,7 @@ html body {
 .save-button{
 	background-color: #E30E1F;
 	float: right;
-	width: 100px;
+	width: 180px;
 	height: 30px;
 	padding-left: 10px;
 }
@@ -86,6 +86,7 @@ html body {
 
 a {
 	color: #E8D392;
+	width: 100%;
 }
 
 i{
@@ -99,7 +100,7 @@ i{
 }
 
 canvas{
-	height: 80px;
+	height: 100px;
 	width: 100%;
 }
 
